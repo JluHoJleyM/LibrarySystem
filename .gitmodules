@@ -1,0 +1,3 @@
+[submodule "LibraryUtils"]
+	path = LibraryUtils
+	url = https://github.com/JluHoJleyM/LibraryUtils.git
